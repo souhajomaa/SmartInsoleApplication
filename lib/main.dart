@@ -22,12 +22,12 @@ void main() async {
   await Firebase.initializeApp(
     // web_options
     options: const FirebaseOptions(
-      apiKey: 'AIzaSyCiZG-U5xaTtjMsyzvEA1v--NYpcT54IU8',
-      appId: '1:137172353703:web:068d791537d78812569182',
-      messagingSenderId: '137172353703',
-      projectId: 'authentification-pfe-35b79',
-      authDomain: 'authentification-pfe-35b79.firebaseapp.com',
-      storageBucket: 'authentification-pfe-35b79.appspot.com',
+      apiKey: '',
+      appId: '',
+      messagingSenderId: '',
+      projectId: '',
+      authDomain: '',
+      storageBucket: '',
       databaseURL:
           'https://authentification-pfe-35b79-default-rtdb.europe-west1.firebasedatabase.app/',
     ),
