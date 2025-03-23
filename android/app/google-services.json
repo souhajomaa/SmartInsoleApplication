@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137172353703",
+    "firebase_url": "https://authentification-pfe-35b79-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "authentification-pfe-35b79",
+    "storage_bucket": "authentification-pfe-35b79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137172353703:android:76ab1960ce84eee1569182",
+        "android_client_info": {
+          "package_name": "com.example.smartinsole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137172353703-1kou78j5pm2imui8tto8d7ifrall15u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2T3Sb3thZ8TvJ-EM1SQG26jF_oITgmIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137172353703-1kou78j5pm2imui8tto8d7ifrall15u6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137172353703-ei5re1jrjbijkbohpnm33vfkhp5evvjg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartinsole.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
